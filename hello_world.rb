@@ -1,4 +1,1 @@
-File: `hello_world.rb`
-```ruby
-puts "Hello World!"
-```
+File: `hello_world.rb`puts "Hello World!"
