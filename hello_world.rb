@@ -1,1 +1,1 @@
-file: hello_world puts "Hello World!"
+puts "Hello World!"
